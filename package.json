@@ -1,0 +1,14 @@
+{
+  "name": "live001",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.9.0",
+    "tsx": "^4.1.2",
+    "typescript": "^5.2.2"
+  },
+  "scripts": {
+    "dev": "tsx watch src/index.ts"
+  }
+}
